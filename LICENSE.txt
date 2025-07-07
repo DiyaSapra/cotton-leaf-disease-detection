@@ -1,0 +1,32 @@
+
+---
+
+## 📄 License
+
+© 2025 Diya Sapra. **All rights reserved.**
+
+This repository (including the final report and all source code) is made available **for academic reference only**.
+
+You may **not**:
+- Copy or redistribute this work
+- Modify or build upon it
+- Use it for commercial or educational redistribution
+- Share it without permission
+
+Violation of these terms may result in legal action under applicable copyright laws.
+
+Contact: [dia.sapra@gmail.com](mailto:dia.sapra@gmail.com) for collaboration or permissions.
+
+---
+
+##Author
+
+**Diya Sapra**  
+Email: [dia.sapra@gmail.com](mailto:dia.sapra@gmail.com)  
+
+---
+
+## 🚫 Disclaimer
+
+This project is a personal academic submission and is **not intended for production use** or commercial deployment.
+
